@@ -8,7 +8,8 @@ This repository documents my successful completion of the **Applied Data Science
 ---
 
 ## 📌 Program Map
-![Program Map](./8a32c356-709d-44df-8563-d32d508ad780.png)
+![image](https://github.com/user-attachments/assets/74e2e969-4b38-4c9a-a49b-8d03c81126b7)
+
 
 ---
 
